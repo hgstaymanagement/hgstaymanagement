@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helping property owners increase their bookings.
 
 <!--
 **hgstaymanagement/hgstaymanagement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
